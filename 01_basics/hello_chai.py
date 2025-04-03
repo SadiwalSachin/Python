@@ -4,7 +4,7 @@ print("Chai or python")
 def chai(n):
     print(n)
 
-chai("lemon tea")
+chai("lemon tea")   
 
 #  variable also called attribute
 chai_one = "lemon tea"
